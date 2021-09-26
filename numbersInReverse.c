@@ -5,6 +5,7 @@
 
 int main(){
 
+    // var
     const int NUM_ELEMENTS = 20;         // Number of input integers
     int userVals[NUM_ELEMENTS];          // Array to hold the user's input integers
 
